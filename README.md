@@ -23,6 +23,9 @@ times derivated: 100
 
 final length: 128
 
+# How to run it?
+Inside the downloaded repository, run: **python3.8 password-derivation.py**
+
 # What are it's use cases?
 Well, password derivation makes brute-forcing someone's password very, very hard, if I dare even to say impossible. So in short - it turns a short-password-to-remember into a strong password that no one can guess. I use it; You should use it.
 
